@@ -4,8 +4,7 @@ Created for the Introduction to Object Oriented Programming and Java class at An
 
 The bookstore application is about as simple as it gets. It's a bookstore where you buy books. Wonderful!
 
-Bookstore Main Page
+Bookstore Main Page and Checkout
 ![EEPROM Main Form](/Git_Images/Bookstore_Main.png?raw=true "EEPROM Main Form")
 
-Checkout!
 ![EEPROM Main Form](/Git_Images/Bookstore_Checkout.png?raw=true "EEPROM Main Form")
